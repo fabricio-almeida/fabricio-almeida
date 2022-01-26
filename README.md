@@ -6,4 +6,4 @@
 
 <p>📊&nbsp;- Meu foco atual &eacute; Business Intelligence e Data Science.</p>
 
-<p>Quer saber mais sobre meu trabalho? Vai l&aacute; no meu <a href="https://www.linkedin.com/in/fabr%C3%ADcioalmeida/">LinkedIn</a> 😁</p>
+<p>Quer saber mais sobre mim? Vai l&aacute; no meu <a href="https://www.linkedin.com/in/fabr%C3%ADcioalmeida/">LinkedIn</a> 😁</p>
