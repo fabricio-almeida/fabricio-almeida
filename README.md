@@ -1,9 +1,9 @@
-<h3>🙋 - Ol&aacute;, sou o <strong>Fabr&iacute;cio Almeida</strong></h3>
+<p>🙋 - Ol&aacute;, sou o <strong>Fabr&iacute;cio Almeida</strong></p>
 
-<h3>👨&zwj;💻 - Sou Analista de Sistemas</h3>
+<p>👨&zwj;💻 - Sou Analista de Sistemas</p>
 
-<h3>📅 - Atuo no mercado de tecnologia desde de 2008.&nbsp;</h3>
+<p>📅 - Atuo no mercado de tecnologia desde de 2008.&nbsp;</p>
 
-<h3>📊&nbsp;- Meu foco atual &eacute; Business Intelligence e Data Science.</h3>
+<p>📊&nbsp;- Meu foco atual &eacute; Business Intelligence e Data Science.</p>
 
-<h3>&nbsp;</h3>
+<p>Quer saber mais sobre meu trabalho? Vai l&aacute; no meu <a href="https://www.linkedin.com/in/fabr%C3%ADcioalmeida/">LinkedIn</a> 😁&nbsp;</p>
