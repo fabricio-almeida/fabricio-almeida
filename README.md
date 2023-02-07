@@ -1,6 +1,6 @@
 <p>🙋 - Ol&aacute;, sou o <strong>Fabr&iacute;cio Almeida</strong></p>
 
-<p>👨&zwj;💻 - Sou Analista de Sistemas</p>
+<p>👨&zwj;💻 - Sou Analista de BI</p>
 
 <p>📅 - Atuo no mercado de tecnologia desde de 2008.&nbsp;</p>
 
